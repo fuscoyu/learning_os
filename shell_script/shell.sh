@@ -125,6 +125,7 @@ done
 
 echo $SUM
 
+
 echo read
 
 read -p "input number:" NUM1
